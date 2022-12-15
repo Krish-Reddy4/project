@@ -2,4 +2,8 @@ numpy
 pandas
 scipy 
 python
+<<<<<<< HEAD
 requests
+=======
+six
+>>>>>>> 43f91b37d36e9f91ff3954bf13b5ba5d1dc0aaa5
